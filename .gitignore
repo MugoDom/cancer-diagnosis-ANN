@@ -1,2 +1,8 @@
 venv/
-**/.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pkl
+*.h5
+.DS_Store
+.env
