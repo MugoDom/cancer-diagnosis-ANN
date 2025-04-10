@@ -47,12 +47,12 @@ This project uses an Artificial Neural Network (ANN) built with TensorFlow to cl
 
 ---
 
-## Key Takeaways
+## Results
 - The ANN model showed strong performance in distinguishing malignant from benign tumors.
 - Data normalization and proper train/test splitting were key to effective training.
 
 ---
 
-## Potential Extensions
+## Future exploration
 - Explore other models like Random Forests or SVMs for comparison.
 - Integrate model into a simple diagnostic web app using Flask or Streamlit.
