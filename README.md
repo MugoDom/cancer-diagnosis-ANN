@@ -1,4 +1,4 @@
-# Project Summary: Cancer Diagnosis using Artificial Neural Networks
+# Cancer Diagnosis using Artificial Neural Networks
 
 ## Overview
 This project uses an Artificial Neural Network (ANN) built with TensorFlow to classify tumors as **malignant** or **benign** using the Wisconsin Breast Cancer dataset. The dataset contains features computed from digitized images of fine needle aspirates (FNAs) of breast masses.
